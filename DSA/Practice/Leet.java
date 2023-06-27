@@ -1,6 +1,8 @@
+// maximum-count-of-positive-integer-and-negative-integer
+// https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/
 package DSA.Practice;
 
-// maximum-count-of-positive-integer-and-negative-integer
+
 public class Leet {
     public static void main(String[] args) {
         int[] arr1 = {-2,-1,-1,1,2,3};
