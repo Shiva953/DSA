@@ -1,4 +1,4 @@
-package neutron.shiva;
+package DSA.src.neutron.shiva;
 
 public class Linsearch {
     public static void main(String[] args) {

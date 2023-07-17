@@ -1,4 +1,4 @@
-package neutron.shiva; //package -  the folder inside src[assuming the typical java project directory structure] where your java file lies
+package DSA.src.neutron.shiva; //package -  the folder inside src[assuming the typical java project directory structure] where your java file lies
 // neutron.shiva === going inside the shiva package of the root package neutron
 // . -> subfolder(subpackage)
 

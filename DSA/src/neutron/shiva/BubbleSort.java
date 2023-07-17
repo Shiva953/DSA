@@ -1,4 +1,4 @@
-package neutron.shiva;
+package DSA.src.neutron.shiva;
 import java.util.Arrays;
 public class BubbleSort {
     public static void main(String[] args) {
